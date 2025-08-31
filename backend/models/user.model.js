@@ -1,21 +1,20 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const userSchema= new mongoose.Schema({
+const userSchema=new mongoose.Schema({
     sender:{
         type:String,
-        required: true,
+        required:true,
         enum:["user"]
     },
-
     text:{
         type:String,
         required:true
     },
-    timestamp:{
+    timstamp:{
         type:Date,
-        default : Date.now
+        default:Date.now
     }
 })
 
 const User=mongoose.model("User",userSchema)
-export default User
+export default User;

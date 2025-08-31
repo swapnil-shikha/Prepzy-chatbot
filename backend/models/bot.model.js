@@ -1,14 +1,14 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const botSchema= new mongoose.Schema({
+const botSchema=new mongoose.Schema({
     
     text:{
         type:String,
         required:true
     },
-    timestamp:{
+    timstamp:{
         type:Date,
-        default : Date.now
+        default:Date.now
     }
 })
 
