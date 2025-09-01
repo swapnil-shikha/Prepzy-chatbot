@@ -1,39 +1,12 @@
-# 🤖 AI Interview Chatbot
+# React + Vite
 
-An **AI-powered interview chatbot** designed to help **B.Tech CSE students** prepare for interviews. The application provides instant, pre-programmed answers to common technical and HR questions, making interview preparation **quick and efficient**.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🖼️ Demo
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![App Screenshot](https://github.com/user-attachments/assets/e0f414eb-8197-4265-93e5-1d7df1c46d5d.png)
+## Expanding the ESLint configuration
 
----
-
-## ✨ Features
-
-- 💬 **Responsive Chat Interface**  
-  Clean and intuitive UI for seamless conversation.
-
-- ⚡ **Pre-programmed Responses**  
-  Instant answers for key topics in **Data Structures, Algorithms, DBMS, Operating Systems**, and more.
-
-- 🗂️ **Categorized Q&A**  
-  Organized by topics, including **technical concepts** and **HR questions** like:  
-  - "Tell me about yourself"  
-  - "Why should we hire you?"
-
-- 👥 **User and Bot Interaction**  
-  Clear distinction between **user queries** and **chatbot responses**.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js ⚛️  
-- **Backend:** Express.js 🚀  
-- **Database:** MongoDB 🍃  
-
----
-
-## 🚀 How to Run
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
