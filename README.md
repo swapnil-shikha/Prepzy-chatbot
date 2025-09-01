@@ -1,9 +1,11 @@
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c7af6f8d-3221-4aa7-a80f-4818d40f6b8c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c7af6f8d-3221-4aa7-a80f-4818d40f6b8c" />
 AI Interview Chatbot
-An AI-powered interview chatbot designed to help B.Tech CSE<img width="1440" height="777" alt="Screenshot 2025-09-01 at 8 47 39 PM" src="https://github.com/user-attachments/assets/948bcf54-7234-422d-82b2-7e1dffb69431" />
+An AI-powered interview chatbot designed to help B.Tech CSE
+
 <img width="1440" height="777" alt="Screenshot 2025-09-01 at 8 47 39 PM" src="https://github.com/user-attachments/assets/e0f414eb-8197-4265-93e5-1d7df1c46d5d" />
- students prepare for interviews. This application provides instant, pre-programmed answers to common technical and HR questions, offering a quick and efficient study tool.
+
+ Students prepare for interviews. This application provides instant, pre-programmed answers to common technical and HR questions, offering a quick and efficient study tool.
 
 Features
 Responsive Chat Interface: A clean, intuitive user interface allows for seamless conversation.
